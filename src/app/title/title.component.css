@@ -1,0 +1,15 @@
+.title-container{
+    color: #ffffff;
+}
+.title-container > h1 {
+    text-transform: uppercase;
+    margin: 10px;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.title-container > hr{
+    margin: 10px 0 15px 0px;
+}
