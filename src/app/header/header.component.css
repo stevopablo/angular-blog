@@ -1,0 +1,32 @@
+.container-header {
+    margin: 10px 0 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-header input {
+    width:200px;
+    height: 50px;
+}
+
+.container-header > ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-header > ul > li {
+    margin: 0 10px 10px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.header-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-input > input {
+    width: 500px;
+}

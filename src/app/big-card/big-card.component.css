@@ -8,6 +8,12 @@
 }
 .big-card-img > img{
     margin: 10px 0 10px 0 ;
+    height: 400px;
+    margin-right: 20px;
+    width: 440px;
+    object-fit: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
 }
 
 .big-card-title > h1 {
